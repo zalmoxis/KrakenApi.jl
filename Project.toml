@@ -1,0 +1,11 @@
+name = "Kraken"
+uuid = "3a00d42c-612d-4821-8873-91269ba5b248"
+version = "0.1.0"
+
+[deps]
+
+[compat]
+
+[extras]
+
+[targets]
